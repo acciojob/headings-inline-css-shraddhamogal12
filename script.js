@@ -1,7 +1,7 @@
 //your JS code here. If required.
-<h1>Heading 1</h1>
-<h2>Heading 2</h2>
-<h3>Heading 3</h3>
-<h4>Heading 3</h4>
-<h5>Heading 3</h5>
-<h6>Heading 3</h6>
+<h1 style=color:blue>Heading 1</h1>
+<h2 style=color:red>Heading 2</h2>
+<h3 style=color:green>Heading 3</h3>
+<h4 style=color:orange>Heading 4</h4>
+<h5 style=color:grey>Heading 5</h5>
+<h6 style=color:yellow>Heading 6</h6>
